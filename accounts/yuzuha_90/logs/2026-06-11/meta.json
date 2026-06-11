@@ -1,0 +1,59 @@
+{
+  "account": "yuzuha_90",
+  "date": "2026-06-11",
+  "steps": {
+    "discover": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "search_terms": ["27卒", "27卒 内定ない"],
+      "search_method": "tiktok.com/search/user（キーワード検索ページはエラーのためユーザー検索で代替）",
+      "note": "個別投稿を複数開いた段階でログイン/登録要求が出たため投稿深掘りは中断。突破はしない。代表URLはプロフィールURL。",
+      "candidates_count": 5,
+      "related_leads_count": 5,
+      "output": "00_candidates.md"
+    },
+    "analyze": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "targets": ["@komakoma_27", "@syukatsu27yuiii"],
+      "reference_urls_count": 5,
+      "note": "komakomaは代表投稿の構成・コメント209件上位まで視認。ここねはキャプション(全#pr)から型を抽出、コメント集計は次回TODO。",
+      "output": "03_competitor.md"
+    },
+    "trend": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "observed_source": "#27卒就活 (4429件) フィード上位＋ユーザー検索＋おすすめ",
+      "previous_observation": null,
+      "top_formats": ["1人就活の限界→頼ってよかった後悔型", "本選考締切カウントダウン", "NNT・メンタル本音(#NNT)", "企業分析AI×コメント誘導", "あるある自虐エンタメ"],
+      "profile_update": "提案のみ（人の承認待ち）。05_trend.md に置換案を記載。",
+      "output": "05_trend.md"
+    },
+    "offer": {
+      "ran_at": "2026-06-11",
+      "deal": "シュトキャリ（首都圏特化・新卒就職エージェント / 完全無料）",
+      "lp": "https://hitotume.co.jp/shutocari/lp4/",
+      "merits_count": 9,
+      "source": "LP記載文言に忠実。数値はLP出典。",
+      "output": "04a_offer_merits.md"
+    },
+    "pain_points": {
+      "ran_at": "2026-06-11",
+      "source": "TikTok代替（Threads不使用指示）。03_competitor＋05_trendのコメント/キャプションから抽出。",
+      "note": "本来はThreads/researchで取得。後日差し替え推奨。",
+      "output": "02_pain_points.md"
+    },
+    "matching": {
+      "ran_at": "2026-06-11",
+      "status": "接続点候補のみ（人の確定待ち）。候補①仮採用で台本先行。",
+      "output": "04_matching.md"
+    },
+    "script": {
+      "ran_at": "2026-06-11",
+      "adopted_matching": "候補①（一人就活の限界→個別対策で内定獲得率5.3倍）仮採用",
+      "hooks": 3,
+      "note": "Threads不使用の代替pain基準で生成。数値はLP出典・個人成果は捏造禁止の注記付き。人の手直し前提のドラフト。",
+      "output": "05_script_draft.md"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "account": "hinana_tuki",
+  "date": "2026-06-11",
+  "steps": {
+    "discover": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "search_terms": ["未経験転職"],
+      "search_method": "tiktok.com/search (未ログイン) + 公開プロフィール巡回",
+      "note": "#未経験転職 タグページはエラー表示のため検索ページで代替",
+      "candidates_count": 5,
+      "related_leads_count": 8,
+      "output": "00_candidates.md"
+    },
+    "analyze": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "targets": ["@miuru_mikeikentenshoku", "@tennsyoku_it"],
+      "reference_urls_count": 5,
+      "note": "コメント全件集計は抽出不安定のため一部のみ。再走でスクロール集計するTODO",
+      "output": "03_competitor.md"
+    },
+    "trend": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "note": "カルーセル静止画＋大テロップが主流。05_trend.md内で流行り欄の更新案を提示（profile.md本体は未反映）。",
+      "output": "05_trend.md"
+    },
+    "offer": {
+      "ran_at": "2026-06-11",
+      "deal": "Zキャリア（正社員未経験向け転職エージェント / 完全無料）",
+      "lp": "https://zcareer.com/lp/agent/registration",
+      "merits_count": 9,
+      "source": "LP記載文言に忠実。",
+      "output": "04a_offer_merits.md"
+    },
+    "pain_points": {
+      "ran_at": "2026-06-11",
+      "source": "TikTok代替（Threads不使用指示）。03_competitorのコメント/フックから抽出。",
+      "note": "本来はThreads/researchで取得。後日差し替え推奨。",
+      "output": "02_pain_points.md"
+    },
+    "matching": {
+      "ran_at": "2026-06-11",
+      "status": "接続点候補のみ（人の確定待ち）。候補①仮採用で台本先行。",
+      "output": "04_matching.md"
+    },
+    "script": {
+      "ran_at": "2026-06-11",
+      "adopted_matching": "候補①（未経験＝いい所に入れない思い込み→未経験OK×9年実績）仮採用",
+      "hooks": 3,
+      "note": "Threads不使用の代替pain基準で生成。個人成果は捏造禁止の注記付き。人の手直し前提のドラフト。",
+      "output": "05_script_draft.md"
+    }
+  }
+}
