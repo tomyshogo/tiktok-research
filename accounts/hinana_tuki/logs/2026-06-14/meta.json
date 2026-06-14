@@ -1,0 +1,41 @@
+{
+  "account": "hinana_tuki",
+  "date": "2026-06-14",
+  "flow": "research→script（リサーチから台本作成まで）",
+  "steps": {
+    "research": {
+      "ran_at": "2026-06-14",
+      "medium": "Threads",
+      "method": "ログイン済みChromeで見える範囲を読取。スクレイピング・CAPTCHA回避なし。",
+      "search_terms": ["第二新卒転職", "未経験転職"],
+      "note": "前回(06-11)はTikTok代替版。今回はThreadsの生の本音に差し替え。",
+      "outputs": ["01_threads_raw.md", "02_pain_points.md"]
+    },
+    "offer": {
+      "ran_at": "2026-06-14",
+      "deal": "Zキャリア（正社員未経験向け転職エージェント / 完全無料）",
+      "lp": "https://zcareer.com/lp/agent/registration",
+      "merits_count": 9,
+      "note": "LP不変につき再抽出なし。06-11/04aと同内容を本日フォルダへ継承。",
+      "output": "04a_offer_merits.md"
+    },
+    "trend": {
+      "ran_at": "2026-06-11",
+      "medium": "TikTok",
+      "status": "本日は再観測せず流用（週1定点・次回目安2026-06-18）。",
+      "source": "05_trend.md (2026-06-11)"
+    },
+    "matching": {
+      "ran_at": "2026-06-14",
+      "status": "接続点候補のみ（人の確定待ち）。本日は候補②（焦って応募→ミスマッチループ→進め方を一緒に×未経験OK）仮採用。",
+      "output": "04_matching.md"
+    },
+    "script": {
+      "ran_at": "2026-06-14",
+      "adopted_matching": "候補②仮採用",
+      "hooks": 3,
+      "note": "Threads由来の生本音基準で生成。サービス名は動画内に出さない／個人成果は捏造禁止の注記付き。人の手直し前提のドラフト。",
+      "output": "05_script_draft.md"
+    }
+  }
+}
