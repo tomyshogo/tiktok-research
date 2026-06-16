@@ -1,0 +1,17 @@
+{
+  "account": "yuzuha_90",
+  "date": "2026-06-16",
+  "stages_run": ["3_research", "6_script"],
+  "offer_reused": "2026-06-14/04a_offer_merits.md（ログナビ・LP/条件変更なしのため再抽出せず）",
+  "threads": {
+    "queries_used": ["２７卒内定ない", "２７卒就活", "就活 つらい"],
+    "relevant_posts_collected": 8,
+    "captcha_or_login_block": false,
+    "note": "ログイン済みChromeで見える範囲を読むのみ。海外語(27歲=年齢)投稿は除外。本音は『就活つらい』『２７卒内定ない』に集中。"
+  },
+  "key_insight": "本日最深の本音は『一度書類落ち→完全に止まる→自己否定で動けない』(furyouhinchan/kotoha)。落ち続けて心折れ(fr0mm78)・6月時間切れ(mknksn)も継続。",
+  "adopted_connection": "台本A=②落ち続け→人柄ルート／台本B=①+③止まって動けない→最初の一歩(適性検査) ※仮採用・人の確定待ち",
+  "script_count": 2,
+  "caution": "①層は自己否定が深く要配慮。煽らない・甘えと決めつけない・追い込まない表現を人が最終確認。",
+  "human_todo": ["A/Bどちらを主投稿にするか決定", "台本Bの表現温度の最終確認", "体験談部分を本人の事実に書き換え", "#pr表記の最終確認", "スマホ画面録画のアプリ名/ロゴをトリミング"]
+}

@@ -1,0 +1,16 @@
+{
+  "account": "hinana_tuki",
+  "date": "2026-06-16",
+  "stages_run": ["3_research", "6_script"],
+  "offer_reused": "2026-06-14/04a_offer_merits.md（LP・条件変更なしのため再抽出せず）",
+  "threads": {
+    "queries_used": ["新卒 IT 不安", "未経験転職", "第二新卒転職", "就活 つらい", "事務 続けられるか"],
+    "relevant_posts_collected": 13,
+    "captcha_or_login_block": false,
+    "note": "ログイン済みChromeで見える範囲を読むのみ。無関係投稿(食/海外語)は除外。"
+  },
+  "key_insight": "「次こそ続く所に」を一人で空回りする繰り返しループ（pippi.o22）＋転職活動の孤独（aina0920222・588いいね）。前回の勝ち筋を本日本音で再確認。",
+  "adopted_connection": "インサイト①(繰り返しループ)×②(一人で空回り・相談相手不在) ※仮採用・人の確定待ち",
+  "script_count": 1,
+  "human_todo": ["悩み×メリットの最終接続を確定", "体験談部分を本人の事実に書き換え", "#pr表記の最終確認", "スマホ画面録画のサービス名/ロゴをトリミング"]
+}
