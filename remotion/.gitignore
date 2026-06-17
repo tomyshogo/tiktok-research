@@ -1,0 +1,8 @@
+# 依存・書き出し（コミットしない）
+node_modules/
+out/
+
+# 競合参考B-roll（著作権・容量のためコミットしない。ローカルに各自配置）
+public/broll/
+
+.DS_Store

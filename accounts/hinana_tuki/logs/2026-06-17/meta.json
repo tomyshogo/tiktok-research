@@ -1,0 +1,18 @@
+{
+  "account": "hinana_tuki",
+  "date": "2026-06-17",
+  "stages_run": ["3_research", "5_trend", "6_script"],
+  "offer_reused": "2026-06-14/04a_offer_merits.md（LP・条件変更なし。アフィリ計測リンクは踏まない方針のため再抽出せず）",
+  "trend_observed": "2026-06-17 #未経験転職(10.7K)を実観測。06-16から主流変化なし（〜選/Q&A/体験談/誤解を解く）。competitorは06-11を再利用。",
+  "threads": {
+    "queries_used": ["新卒 IT 不安", "未経験転職", "第二新卒転職"],
+    "relevant_posts_collected": 8,
+    "captcha_or_login_block": false,
+    "note": "ログイン済みChromeで見える範囲を読むのみ。無関係投稿(食/エアライン/保険)は除外。"
+  },
+  "key_insight": "繰り返すのは『忍耐力がない』からじゃない（@men.yowa 625）。求人は見てるのに『合う条件/軸』が整理できず勢いか我慢の二択で空回り（@luna・@satoriolmei）。前回の勝ち筋を本日の高反応本音で強化。",
+  "adopted_connection": "本音①繰り返しループ ×②合う条件が未整理で応募できない → 続く人は『合う条件を先に整理/相談しながら選ぶ』 ※仮採用・人の確定待ち",
+  "script_count": 1,
+  "script_trend_optimized": true,
+  "human_todo": ["悩み×メリットの最終接続を確定", "対比リスト文言を本人の事実に寄せる", "#pr表記の最終確認", "スマホ画面録画/ノートのサービス名・ロゴをトリミング"]
+}

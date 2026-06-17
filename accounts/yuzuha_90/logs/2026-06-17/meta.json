@@ -1,0 +1,19 @@
+{
+  "account": "yuzuha_90",
+  "date": "2026-06-17",
+  "stages_run": ["3_research", "5_trend", "6_script"],
+  "target_correction": "ターゲットを27卒→28卒に訂正（人の指摘）。profile.md更新済み。角度を『本選考で落ちて止まる』→『出遅れ・何から始めればいい・スペック思い込み』へ変更。",
+  "offer_reused": "2026-06-14/04a_offer_merits.md（ログナビ・LP/条件変更なし。LPはr.nox-aspリダイレクトのため踏まず再抽出せず）",
+  "trend_observed": "2026-06-17 #28卒(11.8K)を実観測（28卒で再観測）。主流=『今から始める28卒へ名指し＋出遅れ受け止め』『締切/やることまとめ表＋コメント配布』『SPI/ES配布』『大手内定体験談』。本日Threads本音と一致。自社yuzuha_90本人投稿も観測。",
+  "threads": {
+    "queries_used": ["28卒就活", "28卒", "就活 何から"],
+    "relevant_posts_collected": 6,
+    "captcha_or_login_block": false,
+    "note": "ログイン済みChromeで見える範囲を読むのみ。28卒就活スタート期の本音のみ抽出。エアライン/化学特化・集客業者の宣伝は地合い参考に留め除外。"
+  },
+  "key_insight": "出遅れたかも、でも『何から始めればいい』が分からず一歩目が踏み出せない。スペックがない自分は通らない気がして動けない（@pop_kawaii_・@tsuu27221・@hiroto_shukatsu・@sarina_shukatsu）。",
+  "adopted_connection": "本音①何から始めればいい/一歩が重い ×④スペック思い込み → 一歩目を極小化『まず無料の適性検査で向いてる方向だけ知る』＋相性で声がかかる ※仮採用・人の確定待ち",
+  "script_count": 2,
+  "script_trend_optimized": true,
+  "human_todo": ["28卒角度の確定（出遅れ/何から vs スペック思い込み）", "追い込まない/『手遅れ』と言わない表現を必読チェック", "主軸①と②の投稿順を確定", "画面録画のアプリ名・ロゴをトリミング", "#pr最終確認"]
+}
